@@ -21,27 +21,30 @@ Screenshots:
 
 ____________________________________________________________________________________________
 How it Works:
-
+____________________________________________________________________________________________
 Step 1: Open the Application/Browser
-    The home page displays the list of tasks stored in the database.
-
+____________________________________________________________________________________________
+The home page displays the list of tasks stored in the database.
+____________________________________________________________________________________________
 Step 2: Add Task
-    The user clicks Add New Task and enters the task name, description, status, and due date.
-
+____________________________________________________________________________________________
+The user clicks Add New Task and enters the task name, description, status, and due date.
+____________________________________________________________________________________________
 Step 3: View Tasks
-    After adding a task, the task appears on the main task list.
-
+____________________________________________________________________________________________
+After adding a task, the task appears on the main task list.
+____________________________________________________________________________________________
 Step 4: Edit a Task
-    The user can click Edit on an existing task. The application opens the edit page and displays the current task information.
-
-    After making changes and clicking Update Task, the updated information is saved to the database.
-
+____________________________________________________________________________________________
+The user can click Edit on an existing task. The application opens the edit page and displays the current task information.
+After making changes and clicking Update Task, the updated information is saved to the database.
+____________________________________________________________________________________________
 Step 5: Update Task Status
-    Each task has a status of Pending or Completed.
-
-    The user can click the Update Status button to change the task status.
-
+____________________________________________________________________________________________
+Each task has a status of Pending or Completed. The user can click the Update Status button to change the task status.
+____________________________________________________________________________________________
 Step 6: Delete a Task
-
-    The user can click Delete to remove a task.
+____________________________________________________________________________________________
+The user can click Delete to remove a task.
+____________________________________________________________________________________________
 
